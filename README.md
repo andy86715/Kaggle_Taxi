@@ -1,2 +1,3 @@
 # Kaggle_Taxi
-for Kaggle 預測計程車價錢
+New York City Taxi Fare Prediction
+https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
