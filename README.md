@@ -1,7 +1,6 @@
 # Kaggle 紐約計程車預測價錢競賽
 「機器學習導論」課程期末報告
 
-New York City Taxi Fare Prediction
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 ## Reports
 [書面報告](https://github.com/andy86715/Kaggle_Taxi/blob/master/final%20report/機器學習期末報告書.docx)
