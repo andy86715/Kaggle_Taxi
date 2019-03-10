@@ -3,9 +3,9 @@
 
 https://www.kaggle.com/c/new-york-city-taxi-fare-prediction
 ## Reports
-[書面報告](https://github.com/andy86715/Kaggle_Taxi/blob/master/final%20report/機器學習期末報告書.docx)
+[書面報告](https://github.com/andy86715/Kaggle_Taxi/blob/master/final%20report/機器學習期末報告書.pdf)
 
-[投影片簡報](https://github.com/andy86715/Kaggle_Taxi/blob/master/final%20report/機器學習期末報告.pptx)
+[投影片簡報](https://github.com/andy86715/Kaggle_Taxi/blob/master/final%20report/機器學習期末報告.pdf)
 
 ## Methods
 ### - 探索式資料分析 (小資料)
